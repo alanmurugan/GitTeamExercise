@@ -1,3 +1,4 @@
+
 #fey {
   text-align: center;
   border: solid 1px darkred;
@@ -6,3 +7,19 @@
   color: darkred;
   margin: 0 auto;
 }
+#alan{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 30%;
+    border: 3px solid black;
+    border-radius: 2rem;
+    margin:0 auto;
+    background-color:rgba(255, 103, 2, 0.671);
+    
+}
+#alan.img{
+    width: 100%; 
+    height: 100%; 
+    object-fit: contain;
+    }
+
