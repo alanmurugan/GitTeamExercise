@@ -1,0 +1,13 @@
+div#michael {
+    border-style: groove;
+    border-color: red;
+    padding: 10px;
+    margin: 50px auto 50px auto;
+    border-radius: 6px;
+    text-align: center;
+    border-width: 10px;
+}
+
+#michael {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
